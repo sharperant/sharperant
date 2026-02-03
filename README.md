@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/sharperant/osTicket-prerequisites)
-  - [osTicket: Post-Installation Configuration](https://github.com/sharperant/osTicket-installation)
+  - [osTicket: Post-Installation Configuration](https://github.com/sharperant/osTicket-Post-Install)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/sharperant/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/sharperant/configure-ad)
