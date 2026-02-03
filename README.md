@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/sharperant/osTicket-Post-Install)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/sharperant/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/sharperant/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/sharperant/configure-activedirectory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/sharperant/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
