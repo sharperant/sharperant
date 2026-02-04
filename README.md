@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anthony Rodriguez, an <a href="(https://www.linkedin.com/in/anthony-rodriguez-647572271/)">IT Professional</a>!</h1>
+<h1>Hi, I'm Anthony, an <a href="(https://www.linkedin.com/in/anthony-rodriguez-647572271/)">IT Professional</a>!</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
